@@ -10,7 +10,7 @@
 ![Release](https://img.shields.io/github/v/release/DT-Patient/PervasiveHealthcareReport?label=Release)
 
 
-
+ 
 # Pervasive Healthcare Report
 
 <!---Sottotitolo / Slogan / Descrizione breve-->

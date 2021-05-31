@@ -167,6 +167,6 @@ Terminati tutti gli step viene creata la release attraverso *actions/create-rele
 Dopo una lunga riflessione fra i membri del team, abbiamo deciso all'unanimità di non effettuare nessuna pubblicazione su Maven Central. 
 Le motivazioni che ci hanno portato a non pubblicare sono caratterizzate principalmente dal software dai noi realizzato.
 Essendo il sistema una versione prototipale e non contenendo nessuna libreria rilevante da noi realizzata, abbiamo perseguito questa strada,
-pur avendo già richiesto un group ID e avendo testato i passaggi per effettuare una pubblicazione su altri repository di studio realizzati precedentemente.
+pur avendo già richiesto un group ID e avendo testato alcuni passaggi per effettuare una pubblicazione su altri repository di studio realizzati precedentemente.
 
 [<-- Home](../README.md)
